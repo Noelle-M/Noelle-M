@@ -1,4 +1,4 @@
-![Noelle Monge](https://raw.githubusercontent.com/Noelle-M/Noelle-Monge/main/assets/ban-noelle.jpg)
+![ban-noelle](https://user-images.githubusercontent.com/43520762/234674594-ee5e63ca-d96c-4bc8-b372-d1ce562af106.jpg)
 
 
 <h2>Hello! I'm Noelle</h2>
