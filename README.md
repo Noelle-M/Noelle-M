@@ -1,16 +1,16 @@
 ![ban-noelle](https://user-images.githubusercontent.com/43520762/234674594-ee5e63ca-d96c-4bc8-b372-d1ce562af106.jpg)
-
+# Developpeuse PHP Symfony
 
 <h2>Bonjour ! 👋</h2>
 
 <!-- ## 👋 &nbsp;Hello! I'm Noelle -->
 
-### 👨🏻‍💻 &nbsp;About Me
+👨🏻‍💻  À propos de moi
+💡  J'aime explorer de nouvelles technologies et développer des solutions logicielles ainsi que des astuces rapides.
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+✉️  Vous pouvez m'envoyer un e-mail à contact@noelle-monge.fr ! Je vous réponds au plus vite !
 
-✉️ &nbsp;You can shoot me an email at contact@noelle-monge.fr! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://noelle-monge.fr/) for more details about me. I'm open to feedback and suggestions!
+📄  N'hésitez pas à consulter mon Portfolio pour en savoir plus sur moi. Je suis ouvert aux commentaires et aux suggestions !
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
