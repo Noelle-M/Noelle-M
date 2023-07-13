@@ -1,4 +1,3 @@
-![ban-noelle](https://user-images.githubusercontent.com/43520762/234674594-ee5e63ca-d96c-4bc8-b372-d1ce562af106.jpg)
 # Developpeuse PHP Symfony
 
 <h2>Bonjour ! 👋</h2>
