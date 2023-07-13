@@ -2,14 +2,7 @@
 
 <h2>Bonjour ! 👋</h2>
 
-<!-- ## 👋 &nbsp;Hello! I'm Noelle -->
-
-👨🏻‍💻  À propos de moi
-💡  J'aime explorer de nouvelles technologies et développer des solutions logicielles ainsi que des astuces rapides.
-
-✉️  Vous pouvez m'envoyer un e-mail à contact@noelle-monge.fr ! Je vous réponds au plus vite !
-
-📄  N'hésitez pas à consulter mon Portfolio pour en savoir plus sur moi. Je suis ouvert aux commentaires et aux suggestions !
+![stack](https://github.com/Noelle-M/Noelle-M/assets/43520762/c38fbc24-1535-4cde-96c7-1ae34649a587)
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
